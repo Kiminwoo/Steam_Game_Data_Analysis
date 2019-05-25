@@ -5,8 +5,8 @@ Data.xlsx파일은 스팀게임데이터이다
 </br>
 This file contains Steam Game Data
 </blockquote>
-<h1>2019-05-2</h1>
 </br>
+<h1>2019-05-2</h1>
 <b><h5>Data preprocessing and learning process.py</h5></b>
 </br>
 <blockquote>
@@ -14,15 +14,15 @@ This file contains Steam Game Data
 </br>
 <ins>game_price를 예측하기 위한 데이터 정제 과정이다.</ins>
 </blockquote>
-<h1>2019-05-20</h1>
 </br>
+<h1>2019-05-20</h1>
 <b><h5>Linear_regression.py</h5></b>
 </br>
 <blockquote>
 <ins>linear regression 으로 game_price 예측했다.</ins>
 </blockquote>
-<h1>2019-05-25</h1>
 </br>
+<h1>2019-05-25</h1>
 <b><h5>Regressor_algorithm.py</h5></b>
 </br>
 <blockquote>
