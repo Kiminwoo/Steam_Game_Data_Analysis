@@ -6,9 +6,9 @@
 
 --> 
 
-<ins>Data.csv 파일을 기반으로 Scaling과 Feature selection을 해보았다.
+<ins>Data.csv 파일을 기반으로 Scaling과 Feature selection을 해보았다.</ins>
 
-game_price를 예측하기 위한 데이터 정제 과정이다.</ins>
+<ins>game_price를 예측하기 위한 데이터 정제 과정이다.</ins>
 
 <h1>2019-05-20</h1>
 
