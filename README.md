@@ -2,7 +2,7 @@
 
 <h1>2019-05-2</h1>
 
---><b><h5>Data preprocessing and learning process.py</h5></b>
+<b><h5>Data preprocessing and learning process.py</h5></b>
 
  
 <blockquote>
