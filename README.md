@@ -1,5 +1,9 @@
 # Steam_Game_Data_Analysis
 
+<blockquote>
+Data.xlsx파일은 스팀게임데이터이다.
+This file contains Steam Game Data
+</blockquote>
 <h1>2019-05-2</h1>
 
 <b><h5>Data preprocessing and learning process.py</h5></b>
