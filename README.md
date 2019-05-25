@@ -15,6 +15,7 @@ game_price를 예측하기 위한 데이터 정제 과정이다.
 -->
 
 linear regression 으로 game_price 예측했다.
+<br>
 
 <h1>2019-05-25</h1>
 
