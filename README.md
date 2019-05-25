@@ -10,11 +10,11 @@ game_price를 예측하기 위한 데이터 정제 과정이다.
 
 <h1>2019-05-20</h1>
 
-<h5>Linear_regression.py
+<b><h5>Linear_regression.py</h5></b>
 
 -->
 
-linear regression 으로 game_price 예측했다.</h5>
+linear regression 으로 game_price 예측했다.
 
 <h1>2019-05-25</h1>
 
