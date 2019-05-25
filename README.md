@@ -2,9 +2,9 @@
 
 <h1>2019-05-2</h1>
 
-<b><h5>Data preprocessing and learning process.py</h5></b>
+--><b><h5>Data preprocessing and learning process.py</h5></b>
 
---> 
+ 
 <blockquote>
 <ins>Data.csv 파일을 기반으로 Scaling과 Feature selection을 해보았다.</ins>
 
