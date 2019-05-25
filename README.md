@@ -1,12 +1,14 @@
 # Steam_Game_Data_Analysis
 
-Data preprocessing and learning process.py
+<h1>2019-05-2</h1>
+
+<b><h5>Data preprocessing and learning process.py</h5></b>
 
 --> 
 
-Data.csv 파일을 기반으로 Scaling과 Feature selection을 해보았다.
+<ins>Data.csv 파일을 기반으로 Scaling과 Feature selection을 해보았다.
 
-game_price를 예측하기 위한 데이터 정제 과정이다.
+game_price를 예측하기 위한 데이터 정제 과정이다.</ins>
 
 <h1>2019-05-20</h1>
 
